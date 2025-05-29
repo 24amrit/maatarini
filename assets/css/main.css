@@ -3044,7 +3044,7 @@ p {
   }
 }
 .hero-2 .hero-content h1 {
-  font-size: 75px;
+  font-size: 60px;
 }
 @media (max-width: 1199px) {
   .hero-2 .hero-content h1 {
@@ -3069,6 +3069,7 @@ p {
   position: absolute;
   bottom: -8px;
   left: 0;
+  width: 300px;
 }
 @media (max-width: 991px) {
   .hero-2 .hero-content h1 span img {
