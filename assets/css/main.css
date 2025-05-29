@@ -10251,12 +10251,12 @@ p {
 }
 
 .certificate-text {
-  padding: 30px;
+  padding: 20px;
   background-color: var(--theme-green);
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 70px;
+  gap: 240px;
 }
 @media (max-width: 1199px) {
   .certificate-text {
