@@ -12429,7 +12429,7 @@ p {
 }
 
 .footer-widget-wrapper {
-  padding: 70px 0 50px;
+  padding: 30px 0 30px;
 }
 .footer-widget-wrapper .single-footer-widget {
   margin-top: 30px;
@@ -12758,9 +12758,10 @@ p {
 }
 
 .footer-bottom p {
-  text-align: right;
+  text-align: center;
   font-weight: 400;
   color: var(--white);
+  padding-bottom: 20px;
 }
 @media (max-width: 991px) {
   .footer-bottom p {
