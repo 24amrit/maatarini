@@ -4396,7 +4396,7 @@ p {
   margin-top: 30px;
 }
 .counter-wrapper-2 .counter-items .content h2 {
-  font-size: 55px;
+  /* font-size: 55px; */
   color: var(--white);
 }
 @media (max-width: 767px) {
