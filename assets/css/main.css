@@ -9883,6 +9883,10 @@ p {
   display: flex;
   align-items: center;
 }
+.courses-content p{
+  line-height: 20px;
+  padding-top: 12px;
+}
 .courses-card-main-items .courses-card-items .courses-content {
   padding: 25px 30px;
 }
@@ -9977,6 +9981,10 @@ p {
   box-shadow: 10px 4px 60px rgba(143, 102, 255, 0.3);
 }
 .courses-card-main-items .courses-card-items-hover {
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin-top: 30px;
   padding: 30px;
   background-color: var(--theme-blue);
@@ -9990,6 +9998,10 @@ p {
   visibility: hidden;
   width: 100%;
   height: 100%;
+
+  p{
+    color: #fff;
+  }
 }
 @media (max-width: 767px) {
   .courses-card-main-items .courses-card-items-hover {
