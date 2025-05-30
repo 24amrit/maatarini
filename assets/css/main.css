@@ -2783,7 +2783,7 @@ p {
   height: 100%;
   content: "";
   background-color: var(--white);
-  top: 67%;
+  top: 100%;
 }
 
 .breadcrumb-wrapper .shape-1 {
@@ -2849,7 +2849,8 @@ p {
 }
 
 .breadcrumb-wrapper .page-heading {
-  padding: 120px 0 100px;
+  padding: 75px 0 75px;
+  /* padding: 120px 0 100px; */
   text-align: center;
 }
 
