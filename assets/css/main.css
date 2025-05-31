@@ -4805,7 +4805,12 @@ p {
 
 @media (max-width: 1199px) {
   .choose-us-wrapper {
-    padding: 40px;
+    padding: 10px 0;
+  }
+}
+@media (max-width: 768px) {
+  .choose-us-section .container-fluid {
+    padding: 10px 0;
   }
 }
 
