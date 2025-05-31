@@ -4805,7 +4805,7 @@ p {
 
 @media (max-width: 1199px) {
   .choose-us-wrapper {
-    padding: 10px 0;
+    padding: 10px 5px;
   }
 }
 @media (max-width: 768px) {
